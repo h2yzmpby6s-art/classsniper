@@ -20,8 +20,8 @@
   // that made an external cron necessary in the first place. The end user never
   // sees it either way, so moving it would trade strike timing for nothing.
   "vars": {
-    "GITHUB_OWNER": "SidharthJoly",
-    "GITHUB_REPO": "ClassSniper",
+    "GITHUB_OWNER": "h2yzmpby6s-art",
+    "GITHUB_REPO": "classsniper",
     "GITHUB_BRANCH": "main",
     // Only the dashboard may call this. Anything else gets no CORS headers back.
     // Two entries because Pages serves from the custom domain and 301s the
@@ -39,7 +39,7 @@
     {
       "binding": "STATE_DB",
       "database_name": "classsniper-state",
-      "database_id": "15cc1c68-8fd4-46db-8cdd-b95284d64b4b"
+      "database_id": "00eeb9ec-4527-4827-8f59-c46437e5e494"
     }
   ],
 
