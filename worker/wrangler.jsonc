@@ -27,8 +27,7 @@
     // Two entries because Pages serves from the custom domain and 301s the
     // github.io URL to it — a browser sent from the latter still ends up with the
     // former as its origin, but both are the dashboard.
-    "ALLOWED_ORIGINS": "https://classsniper.sidharthjoly.com,https://sidharthjoly.github.io"
-  },
+    "ALLOWED_ORIGINS": "https://classsniper.h2yzmpby6s.workers.dev"},
 
   // Where the personal state lives now: what you booked, what's queued, your
   // standing rules. It used to be JSON files in a public repo, which published
